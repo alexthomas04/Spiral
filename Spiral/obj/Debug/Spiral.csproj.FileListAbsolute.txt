@@ -1,0 +1,77 @@
+c:\users\alex\documents\visual studio 2012\Projects\Spiral\Spiral\bin\Debug\Spiral.exe.config
+c:\users\alex\documents\visual studio 2012\Projects\Spiral\Spiral\bin\Debug\Spiral.exe
+c:\users\alex\documents\visual studio 2012\Projects\Spiral\Spiral\bin\Debug\Spiral.pdb
+c:\users\alex\documents\visual studio 2012\Projects\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2012\Projects\Spiral\Spiral\obj\Debug\Spiral.Form1.resources
+c:\users\alex\documents\visual studio 2012\Projects\Spiral\Spiral\obj\Debug\Spiral.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2012\Projects\Spiral\Spiral\obj\Debug\Spiral.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2012\Projects\Spiral\Spiral\obj\Debug\Spiral.exe
+c:\users\alex\documents\visual studio 2012\Projects\Spiral\Spiral\obj\Debug\Spiral.pdb
+c:\Users\Alex\Documents\Visual Studio 2012\Projects\Spiral\Spiral\obj\Debug\Spiral.Spiral.resources
+C:\Users\200203195\Dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\Spiral.exe.config
+C:\Users\200203195\Dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.exe
+C:\Users\200203195\Dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.pdb
+C:\Users\200203195\Dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\Spiral.exe
+C:\Users\200203195\Dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\Spiral.pdb
+C:\Users\200203195\Dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
+C:\Users\200203195\Dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.Form1.resources
+C:\Users\200203195\Dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.Properties.Resources.resources
+C:\Users\200203195\Dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.csproj.GenerateResource.Cache
+C:\Users\Alex\Dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\Spiral.exe.config
+C:\Users\Alex\Dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.exe
+C:\Users\Alex\Dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.pdb
+C:\Users\Alex\Dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\Spiral.exe
+C:\Users\Alex\Dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\Spiral.pdb
+C:\Users\Alex\Dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.Form1.resources
+C:\Users\Alex\Dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.Properties.Resources.resources
+C:\Users\Alex\Dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.csproj.GenerateResource.Cache
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\Spiral.exe.config
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.exe
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.pdb
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\Spiral.exe
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\Spiral.pdb
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.csprojResolveAssemblyReference.cache
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.Form1.resources
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.Properties.Resources.resources
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\obj\Debug\Spiral.csproj.GenerateResource.Cache
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Controls.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Fuzzy.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Genetic.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Imaging.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Imaging.Formats.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Imaging.IPPrototyper.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.MachineLearning.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Math.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Neuro.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Robotics.Lego.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Robotics.Surveyor.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Robotics.TeRK.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Video.DirectShow.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Video.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Video.FFMPEG.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Video.Kinect.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Video.VFW.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Video.Ximea.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Vision.dll
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\IPPrototyper.exe
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Controls.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Fuzzy.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Genetic.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Imaging.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Imaging.Formats.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.MachineLearning.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Math.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Neuro.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Robotics.Lego.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Robotics.Surveyor.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Robotics.TeRK.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Video.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Video.DirectShow.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Video.FFMPEG.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Video.Kinect.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Video.VFW.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Video.Ximea.xml
+J:\dropbox\classes\APCS\c#\Spiral\Spiral\bin\Debug\AForge.Vision.xml
